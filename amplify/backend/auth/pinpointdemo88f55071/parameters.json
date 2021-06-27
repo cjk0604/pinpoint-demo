@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "pizzastore2c419e14_identitypool_2c419e14",
+    "identityPoolName": "pinpointdemo88f55071_identitypool_88f55071",
     "allowUnauthenticatedIdentities": true,
-    "resourceNameTruncated": "pizzas2c419e14",
-    "userPoolName": "pizzastore2c419e14_userpool_2c419e14",
+    "resourceNameTruncated": "pinpoi88f55071",
+    "userPoolName": "pinpointdemo88f55071_userpool_88f55071",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "pizzas2c419e14_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "pinpoi88f55071_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "2c419e14",
-    "resourceName": "pizzastore2c419e14",
+    "sharedId": "88f55071",
+    "resourceName": "pinpointdemo88f55071",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
